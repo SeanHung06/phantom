@@ -13,14 +13,14 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "Hello. I'm Li-Xuan Hong."
+title: "Hello. I'm Li-Xuan Hong"
 email: 'lixuanhong06@gmail.com'
-description: "I am currently doing my Computer Science master’s at the University of Massachusetts Amherst, I was also an experienced Software Engineer with a demonstrated history of working in the technical industry, during the past two years while I am in the industry, I have participated for over four massive projects including  one Corporate banking core system version upgrade  , and I also had experiences in the cloud industry working with AWS as a Cloud Engineer and working on building the Data Analytics Platform Implementation."
+description: "Current University of Massachusetts Amherst MS, Computer Science Students. <br> Experienced Software Engineer with a demonstrated history of working in the banking industry and participated in several banking projects with Oracle Database and is familiar with financial infrastructure platforms.<br> Also worked at eCloudvalley Digital Technology as a data engineer focusing on Data Analytics Platform Implementation."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://seanhung06.github.io/" # the base hostname & protocol for your site, e.g. https://example.com
 #twitter_username: ''
 github_username: 'SeanHung06'
-#medium_username: 'blog.jamigibbs.com'
+resume_username: 'Li-Xuan Hong Resume'
 
 # Build settings
 markdown: kramdown
